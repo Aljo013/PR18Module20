@@ -13,3 +13,5 @@ Page Object Model :
 4. package stepdef
    a. ApiSetp.java merupakan file untuk memanggil fungsi-fungsi pada ApiPage.java, agak lebih rapih.
 Hasil Projek :
+1. GET_LIST_USERS :
+![alt text](https://github.com/Aljo013/PR18Module20/result/DELETE_USER.png?raw=true)
