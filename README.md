@@ -15,3 +15,15 @@ Page Object Model :
 Hasil Projek :
 1. GET_LIST_USERS :
 ![alt text](https://github.com/Aljo013/PR18Module20/blob/master/result/GET_LIST_USERS.png?raw=true)
+2. GET_LIST_USERS_BYID :
+![alt text](https://github.com/Aljo013/PR18Module20/blob/master/result/GET_LIST_USERS_BYID.png?raw=true)
+3. POST_NEW_USER :
+![alt text](https://github.com/Aljo013/PR18Module20/blob/master/result/POST_NEW_USER.png?raw=true)
+4. DELETE_USER :
+![alt text](https://github.com/Aljo013/PR18Module20/blob/master/result/DELETE_USER.png?raw=true)
+5. UPDATE_USERS :
+![alt text](https://github.com/Aljo013/PR18Module20/blob/master/result/UPDATE_USER.png?raw=true)
+6. GET_UNAVAILABLE_USER :
+![alt text](https://github.com/Aljo013/PR18Module20/blob/master/result/GET_UNAVAILABLE_USER.png?raw=true)
+7. POST_INAPPROPRIATE_USER :
+![alt text](https://github.com/Aljo013/PR18Module20/blob/master/result/POST_INAPPROPRIATE_USER.png?raw=true)
